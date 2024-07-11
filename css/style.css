@@ -15,16 +15,13 @@ body{
 /*common start*/
 /* header start*/
  header{
-  background: #F0FFF0;
+  background: #e0fbe0;
   padding: 15px;
  }
  .c_nav{}
  .logo{}
  .menu ul li a{
   color: #000000 !important;
-
-
-
   padding: 0 24px !important; 
  }
  .menu ul li a:hover{
@@ -56,4 +53,188 @@ body{
   color: white !important;
 }
 /*header end*/
+/*banner start*/
+.banner{
+ background-color: #e0fbe0; 
+ padding-bottom: 65px;
+
+
+}
+.b_text{
+
+
+}
+.pb1{
+      color: #FD511A;
+
+}
+.bh1{
+color: #000;
+margin: 10px 0 20px;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 700;
+line-height: 70px;
+}
+.bh1 span{
+  color: green;
+
+}
+.bp2{
+  line-height: 36px;
+
+
+}
+.b_btn{
+  margin-top: 15px;
+
+  padding: 12px 36px;
+
+}
+.b_img{
+   margin-bottom: 30px;
+    padding: 0 50px
+  }
+.b_img img{
+
+}
+.b_text{
+  text-align: center;
+}
+/*banner end*/
+/* feature start*/
+.feature{}
+.p_c{
+  padding-bottom: 100px;
+
+}
+.s_feature{
+  margin: 40px 0 0;
+  border-radius: 10px;
+  padding: 55px 0 50px;
+  background-color: #e0fbe0;
+  transition: .33s linear;
+
+  
+}
+.s_feature:hover{
+  background-color: #fff;
+  box-shadow: 0px 20px 40px 0px rgb(0, 0, 0, 0.10);
+}
+.s_img{
+  width: 80px;
+  height: 82px;
+}
+.s_h2{
+  margin: 20px 0 0;
+
+font-size: 24px;
+font-weight: 500;
+
+color: #413960;
+
+}
+.s_p{}
+/*feature end*/
+/*courses start*/
+.sc_course{
+  margin: 60px 0 0;
+
+  padding: 24px 20px 30px;
+  border-radius: 18px;
+  box-shadow: 0px 20px 40px 0px rgb(0, 0, 0, 0.10);;
+}
+}
+.sc_img{}
+.sc_im img{
+  border-radius: 11px;
+}
+.sc_h2{
+  margin: 20px 05px;
+  font-size: 24px;
+  font-weight: 500;
+  color: #000;
+}
+.sc_p{}
+.btn_sc{
+  margin: 20px 0 35px;
+
+  padding: 8px 28px;
+
+
+}
+.sc_footer{
+}
+.sc_left{}
+.sc_left ul li img, .sc_right ul li img{}
+.sc_left ul li span, .sc_right ul li span{
+  font-weight: 400;
+  padding-right: 10px;
+}
+.sc_right{}
+/*testimony start*/
+.t_img{}
+.t_img img{
+  width: 100%;
+
+}
+.t_item{
+  margin-top: 30px;
+
+
+}
+.t_text{}
+.t_text p{}
+/*testimony start*/
+/*footer top*/
+.footer_top{
+  padding: 55px 0 55px;
+  background: #282531;
+}
+.ft_details{
+  padding-right: 120px ;
+}
+.ft_details p{
+  color: #fff;
+  line-height: 30px;
+
+}
+.ft_link{}
+.ft_link h2{
+  margin-bottom: 8px;
+
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+  line-height: 30px;
+}
+.ft_link ul li a{
+     margin-bottom: 8px;
+     display: block;
+      color: #fff;
+     text-decoration: none;
+}
+
+/*-- footer start*/
+footer{
+  background-color: #282531;
+  padding: 20px 0 30px;
+
+}
+footer p{
+  color: #fff;
+  line-height: 30px;
+
+}
+footer p a{
+  color: white;
+  
+
+}
+/*-- footer end*/
+ 
+
+
+
+
 
